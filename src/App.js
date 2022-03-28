@@ -1,6 +1,6 @@
-import React from "react";
-import Form from "./components/Form";
-import "./App.css";
+import React from 'react'
+import Form from './components/Form'
+import './App.css'
 
 function App() {
   return (
@@ -23,7 +23,7 @@ function App() {
         <p>The answer is: {result}</p> */}
       </header>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

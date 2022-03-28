@@ -1,13 +1,13 @@
-import React from "react";
-import "../App.css";
+import React from 'react'
+import '../App.css'
 
 function Form() {
-  //const length: number = React.useState(0)
+  // const length: number = React.useState(0)
   const [state, setState] = React.useState({
     length: 0,
     width: 0,
     height: 0,
-  });
+  })
   // function handleChange(event) => {
   //   const name = event.target.name
   //   const value =
@@ -32,10 +32,10 @@ function Form() {
       return {
         ...prevState,
         [event.target.name]: event.target.value,
-      };
-    });
+      }
+    })
   }
-  const result = state.length * state.width * state.height;
+  const result = state.length * state.width * state.height
   //   function calculate() {
   //      const result = state.length * state.width * state.height
   //   }
@@ -47,7 +47,7 @@ function Form() {
       <form action="">
         <br />
         <legend className="mb-4">Input Form</legend>
-        <label className="font-serif">
+        <label className="font-serif" htmlFor="length">
           Length:
           <input
             type="text"
@@ -58,7 +58,7 @@ function Form() {
           />
         </label>
         <br />
-        <label className="font-serif">
+        <label className="font-serif" htmlFor="width">
           Width:
           <input
             type="text"
@@ -69,7 +69,7 @@ function Form() {
           />
         </label>
         <br />
-        <label className="font-serif">
+        <label className="font-serif" htmlFor="height">
           Height:
           <input
             type="text"
@@ -87,7 +87,7 @@ function Form() {
       <h2 className="text-2xl font-bold mt-5">Results</h2>
       <p>The answer is: {result}</p>
     </>
-  );
+  )
 }
 
-export default Form;
+export default Form
