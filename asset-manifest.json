@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/mysquare-to-round-app/static/css/main.073c9b0a.css",
-    "main.js": "/mysquare-to-round-app/static/js/main.78721810.js",
+    "main.css": "/mysquare-to-round-app/static/css/main.819b1420.css",
+    "main.js": "/mysquare-to-round-app/static/js/main.3f30508e.js",
     "static/js/787.e56ffca8.chunk.js": "/mysquare-to-round-app/static/js/787.e56ffca8.chunk.js",
-    "static/media/logo.svg": "/mysquare-to-round-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/mysquare-to-round-app/index.html",
-    "main.073c9b0a.css.map": "/mysquare-to-round-app/static/css/main.073c9b0a.css.map",
-    "main.78721810.js.map": "/mysquare-to-round-app/static/js/main.78721810.js.map",
+    "main.819b1420.css.map": "/mysquare-to-round-app/static/css/main.819b1420.css.map",
+    "main.3f30508e.js.map": "/mysquare-to-round-app/static/js/main.3f30508e.js.map",
     "787.e56ffca8.chunk.js.map": "/mysquare-to-round-app/static/js/787.e56ffca8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.78721810.js"
+    "static/css/main.819b1420.css",
+    "static/js/main.3f30508e.js"
   ]
 }
