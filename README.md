@@ -7,11 +7,11 @@
 [![dependency - eslint](https://img.shields.io/badge/dependency-eslint-blue)](https://www.npmjs.com/package/eslint)
 [![Package - eslint](https://img.shields.io/github/package-json/dependency-version/samurai71/square-to-round-react-app/dev/eslint?color=blue)](https://www.npmjs.com/package/eslint)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-[![Hosted with GH Pages](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://pages.github.com/ "Go to GitHub Pages homepage")
+[![Hosted with GH Pages](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://pages.github.com/ 'Go to GitHub Pages homepage')
 
 _Social buttons_
 
-[![samurai71 - square-to-round-react-app](https://img.shields.io/static/v1?label=samurai71&message=my-square-to-round-app&color=blue&logo=github)](https://github.com/samurai71/my-square-to-round-app "Go to GitHub repo")
+[![samurai71 - square-to-round-react-app](https://img.shields.io/static/v1?label=samurai71&message=my-square-to-round-app&color=blue&logo=github)](https://github.com/samurai71/my-square-to-round-app 'Go to GitHub repo')
 [![stars - square-to-round-react-app](https://img.shields.io/github/stars/samurai71/square-to-round-react-app?style=social)](https://github.com/samurai71/my-square-to-round-app)
 [![forks - square-to-round-react-app](https://img.shields.io/github/forks/samurai71/square-to-round-react-app?style=social)](https://github.com/samurai71/my-square-to-round-app)
 
