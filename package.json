@@ -60,7 +60,7 @@
     "tailwindcss": "^3.0.23"
   },
   "lint-staged": {
-    "**/*.{js,jsx}": [
+    "*.{js,jsx}": [
       "npm run lint",
       "prettier --write",
       "jest --findRelatedTests"
