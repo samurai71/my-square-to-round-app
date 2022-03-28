@@ -1,5 +1,5 @@
-import React from 'react';
-import '../App.css';
+import React from "react";
+import "../App.css";
 
 function Form() {
   //const length: number = React.useState(0)
@@ -41,40 +41,40 @@ function Form() {
   //   }
   return (
     <>
-      <p id='info' className='italic'>
+      <p id="info" className="italic">
         Please enter in the number values for the measurements:
       </p>
-      <form action=''>
+      <form action="">
         <br />
-        <legend className='mb-4'>Input Form</legend>
-        <label className='font-serif'>
+        <legend className="mb-4">Input Form</legend>
+        <label className="font-serif">
           Length:
           <input
-            type='text'
-            className='mx-2 align-middle rounded-lg'
-            name='length'
+            type="text"
+            className="mx-2 align-middle rounded-lg"
+            name="length"
             value={state.length}
             onChange={handleChange}
           />
         </label>
         <br />
-        <label className='font-serif'>
+        <label className="font-serif">
           Width:
           <input
-            type='text'
-            className='mx-2 align-middle rounded-lg'
-            name='width'
+            type="text"
+            className="mx-2 align-middle rounded-lg"
+            name="width"
             value={state.width}
             onChange={handleChange}
           />
         </label>
         <br />
-        <label className='font-serif'>
+        <label className="font-serif">
           Height:
           <input
-            type='text'
-            className='mx-2 align-middle rounded-lg'
-            name='height'
+            type="text"
+            className="mx-2 align-middle rounded-lg"
+            name="height"
             value={state.height}
             onChange={handleChange}
           />
@@ -84,7 +84,7 @@ function Form() {
           Calculate
         </button> */}
       </form>
-      <h2 className='text-2xl font-bold mt-5'>Results</h2>
+      <h2 className="text-2xl font-bold mt-5">Results</h2>
       <p>The answer is: {result}</p>
     </>
   );
