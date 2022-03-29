@@ -1,76 +1,77 @@
 .App {
-  text-align: center;
+    text-align: center;
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
 }
 
 .App-link {
-  color: #61dafb;
+    color: #61dafb;
 }
 
 .btn {
-  border-radius: 10px;
-  border: none;
-  padding: 0.625rem;
-  margin-top: 1em;
+    border-radius: 10px;
+    border: none;
+    padding: 0.625rem;
+    margin-top: 1em;
 }
 
 .btn:hover {
-  background-color: #006400;
-  color: #ffffff;
-  font-weight: bold;
+    background-color: #006400;
+    color: #ffffff;
+    font-weight: bold;
 }
 
 .length {
-  margin-top: 1em;
-  margin-bottom: 1em;
-  padding-right: 1em;
-  text-align: left;
-  font-family: serif;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding-right: 1em;
+    text-align: left;
+    font-family: serif;
 }
 
 #info {
-  font-family: serif;
-  font-size: 0.8em;
+    font-family: serif;
+    font-size: 0.8em;
 }
 
 #length {
-  font-family: serif;
-  vertical-align: middle;
+    font-family: serif;
+    vertical-align: middle;
 }
 
 #width {
-  font-family: serif;
+    font-family: serif;
 }
 
 #height {
-  font-family: serif;
+    font-family: serif;
 }
 
 .width {
-  margin-bottom: 1em;
-  text-align: left;
+    margin-bottom: 1em;
+    text-align: left;
 }
 
 input {
-  border-radius: 0.3125rem;
-  width: 3rem;
-  height: 3rem;
-  margin-bottom: 1.125rem;
-  margin-left: 1.125rem;
-  font-size: 1.25rem;
-  text-align: center;
+    border-radius: 0.3125rem;
+    width: 3rem;
+    height: 3rem;
+    margin-bottom: 1.125rem;
+    margin-left: 1.125rem;
+    font-size: 1.25rem;
+    text-align: center;
+    color: #111111;
 }
 
 legend {
-  margin-bottom: 0.625rem;
+    margin-bottom: 0.625rem;
 }
