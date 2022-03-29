@@ -67,9 +67,11 @@ input {
     height: 3rem;
     margin-bottom: 1.125rem;
     margin-left: 1.125rem;
+    font-family: serif;
     font-size: 1.25rem;
     text-align: center;
     color: #111111;
+    font-style: italic;
 }
 
 legend {
