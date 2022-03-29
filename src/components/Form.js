@@ -36,9 +36,9 @@ function Form() {
         });
     }
     const result = state.length * state.width * state.height;
-    //   function calculate() {
-    //      const result = state.length * state.width * state.height
-    //   }
+    //function calculate() {
+    //const result = state.length * state.width * state.height
+    // }
     return (
         <>
             <p id="info" className="italic">
@@ -80,9 +80,13 @@ function Form() {
                     />
                 </label>
                 <br />
-                {/* <button className='btn bg-zinc-700' id='calculate' onClick={calculate}>
-          Calculate
-        </button> */}
+                {/* <button
+                    className="btn bg-zinc-700"
+                    id="calculate"
+                    onClick={calculate}
+                >
+                    Calculate
+                </button> */}
             </form>
             <h2 className="text-2xl font-bold mt-5">Results</h2>
             <p>The answer is: {result}</p>
