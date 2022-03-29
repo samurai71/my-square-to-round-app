@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mysquare-to-round-app/static/css/main.0b46f6f4.css",
-    "main.js": "/mysquare-to-round-app/static/js/main.8827dab0.js",
-    "static/js/787.e56ffca8.chunk.js": "/mysquare-to-round-app/static/js/787.e56ffca8.chunk.js",
-    "index.html": "/mysquare-to-round-app/index.html",
-    "main.0b46f6f4.css.map": "/mysquare-to-round-app/static/css/main.0b46f6f4.css.map",
-    "main.8827dab0.js.map": "/mysquare-to-round-app/static/js/main.8827dab0.js.map",
-    "787.e56ffca8.chunk.js.map": "/mysquare-to-round-app/static/js/787.e56ffca8.chunk.js.map"
+    "main.css": "./static/css/main.0b46f6f4.css",
+    "main.js": "./static/js/main.ca6b7bf3.js",
+    "static/js/787.e56ffca8.chunk.js": "./static/js/787.e56ffca8.chunk.js",
+    "index.html": "./index.html",
+    "main.0b46f6f4.css.map": "./static/css/main.0b46f6f4.css.map",
+    "main.ca6b7bf3.js.map": "./static/js/main.ca6b7bf3.js.map",
+    "787.e56ffca8.chunk.js.map": "./static/js/787.e56ffca8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b46f6f4.css",
-    "static/js/main.8827dab0.js"
+    "static/js/main.ca6b7bf3.js"
   ]
 }
