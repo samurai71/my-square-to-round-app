@@ -59,7 +59,7 @@
     "tailwindcss": "^3.0.23"
   },
   "lint-staged": {
-    "*/src/*.js": [
+    "./src/**/*.js": [
       "npm run lint",
       "prettier --write"
     ]
